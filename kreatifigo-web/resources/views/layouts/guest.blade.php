@@ -158,11 +158,12 @@
         </div>
 
         {{-- Footer --}}
-        <div class="border border-t-black  py-4 grid items-center justify-center flex-row-2 gap-2">
+        <div
+            class="bg-blue w-full border border-blue border-t-white  py-4 grid items-center justify-center flex-row-2 gap-2">
             <div class="flex items-center justify-center">
-                <x-application-logo class="fill-current text-black block h-6 w-auto "></x-application-logo>
+                <x-application-logo class="fill-current text-white block h-6 w-auto "></x-application-logo>
             </div>
-            <p class="text-center text-xs 2xl:text-md">
+            <p class="text-white text-center text-xs 2xl:text-md">
                 Yogyakarta, Indonesia | 2024
             </p>
         </div>
