@@ -13,7 +13,7 @@
     </title>
 
     {{-- Icon --}}
-    <link rel="icon" href="{{ asset('asset/kreatifigo.ico') }}">
+    <link rel="icon" href="{{ asset('assets/kreatifigo.ico') }}">
 
     <!-- Fonts -->
     <link href="https://fonts.cdnfonts.com/css/inter" rel="stylesheet">
