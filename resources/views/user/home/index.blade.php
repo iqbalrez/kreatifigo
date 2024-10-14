@@ -89,14 +89,11 @@
             <div class="md:col-span-6 h-fit">
                 <h2 class="text-balance text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl"> About us </h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-                    inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis. Ut commodo efficitur
-                    neque. Morem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit
-                    interdum, ac
-                    aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-                    inceptos himenaeos. Curabitur tempus urna at turpis condimentum lobortis. Ut commodo efficitur
-                    neque.</p>
+                    Kreatifigo is a creative agency based in Yogyakarta, driven by the passion to create distinctive
+                    visual works. We believe that every brand has a unique story, and our mission is to express that
+                    story through various creative media. With a team experienced in diverse fields, including
+                    photography, videography, graphic design, and social media management, Kreatifigo is ready to help
+                    you engage your audience in an engaging way.</p>
             </div>
         </div>
     </div>
@@ -112,48 +109,57 @@
                 <h2 class="font-bold">
                     Photoshoot</h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. </p>
+                    Kreatifigo offers professional photoshoot sessions tailored for various purposes, including
+                    <span class="italic">graduation, fashion, event documentation, and corporate branding</span>. We
+                    ensure that each image tells a story and
+                    conveys the right message.
+                </p>
             </div>
             <div
                 class="p-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 col-span-4 rounded-sm">
                 <h2 class="font-bold">
                     Video Shoot & Editing</h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. </p>
+                    We offer videography services including <span class="italic">company profile, event recap, personal
+                        branding, etc</span>. Our services encompass everything from concept
+                    development and filming to editing, delivering cinematic and high-quality results. </p>
             </div>
             <div
                 class="p-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 col-span-4 rounded-sm">
                 <h2 class="font-bold">
                     Graphic Design</h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. </p>
+                    We offer creative and innovative graphic design services, including <span class="italic"> printing,
+                        apparels, branding,
+                        logo creation, and social media content</span>. Each design we create is tailored to reflect the
+                    unique
+                    character and identity of your brand. </p>
             </div>
             <div
                 class="p-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 col-span-4 rounded-sm">
                 <h2 class="font-bold">
                     Motion Graphic</h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. </p>
+                    Our motion graphics services include the creation of eye-catching animations designed to enhance
+                    interaction and engagement. </p>
             </div>
             <div
                 class="p-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 col-span-4 rounded-sm">
                 <h2 class="font-bold">
                     Social Media Handling</h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. </p>
+                    In today's digital era, having a strong presence on social media is essential. We will assist you in
+                    managing your content and social media strategies to ensure that your brand is recognized and loved
+                    by the right audience.
+                </p>
             </div>
             <div
                 class="p-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 col-span-4 rounded-sm">
                 <h2 class="font-bold">
-                    Others</h2>
+                    Other creative services</h2>
                 <p class="py-4 text-sm text-pretty leading-6 text-gray-600">
-                    Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac
-                    aliquet odio mattis. </p>
+                    In addition to our main offerings, Kreatifigo provides content creation, website development,
+                    workshops, or any other creative solutions to enhance your brand. </p>
             </div>
         </div>
     </div>
