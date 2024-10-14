@@ -310,7 +310,7 @@
 
             <div class="w-full flex justify-end">
                 <img class="hidden md:flex rounded-xl h-2/3 justify-end"
-                    src="{{ asset('assets/kreatifigo-tab.png') }}">
+                    src="{{ asset('assets/stay_connected.png') }}">
             </div>
 
             <div>
