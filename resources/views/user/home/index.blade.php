@@ -293,6 +293,13 @@
                         </div>
                     </div> --}}
                 </div>
+
+            </div>
+            <div class="flex w-full justify-center">
+                <a href="https://drive.google.com/file/d/11oBrpwdnGeqLxQytkLpmvHUU2-jnNiM1/view?usp=sharing"
+                    class=" transition-colors rounded-full bg-blue px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 animate-pulse">
+                    Access portfolio →
+                </a>
             </div>
         </section>
     </div>
@@ -303,7 +310,7 @@
 
             <div class="w-full flex justify-end">
                 <img class="hidden md:flex rounded-xl h-2/3 justify-end"
-                    src="{{ asset('assets/stay_connected.png') }}">
+                    src="{{ asset('assets/kreatifigo-tab.png') }}">
             </div>
 
             <div>
